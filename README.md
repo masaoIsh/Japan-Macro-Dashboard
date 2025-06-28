@@ -1,6 +1,6 @@
-# Japan-Macro-Dashboard
+# Japan-Macro-Dashboard 
 
-_A hands-on macro research project demonstrating data engineering, dimensionality reduction, time-series modeling, and a differentiable agent-based simulation.
+A macroeconomic research project that extracts interpretable factors, detects structural regimes, and simulates realistic agent behavior—offering tools for forecasting, policy analysis, and macro-financial strategy.
 
 ---
 
